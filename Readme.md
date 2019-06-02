@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Надежда](https://up.htmlacademy.ru/javascript/17/user/963759).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Трасковский](https://htmlacademy.ru/profile/id454037).
 
 ---
 
